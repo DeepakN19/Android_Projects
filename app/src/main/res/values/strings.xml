@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">The Blood Alliance</string>
+    <string-array name="blood">
+        <item>A positive (A+)</item>
+        <item>A negative (A-)</item>
+        <item>B positive (B+)</item>
+        <item>B negative (B-)</item>
+        <item>O positive (O+)</item>
+        <item>O negative (O-)</item>
+        <item>AB positive (AB+)</item>
+        <item>AB negative (AB-)</item>
+    </string-array>
+    <string-array name="area">
+        <item>Adilabad</item>
+        <item>Hyderabad</item>
+        <item>Karimnagar</item>
+        <item>Khammam</item>
+        <item>Mahbubnagar</item>
+        <item>Medak</item>
+        <item>Nalgonda</item>
+        <item>Nizambad</item>
+        <item>Rangareddy</item>
+        <item>Warangal</item>
+    </string-array>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
